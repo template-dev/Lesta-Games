@@ -5,7 +5,9 @@ set(PROJECT_NAME "LestaGames")
 project(${PROJECT_NAME})
 
 set(HEADERS
-  ${CMAKE_CURRENT_SOURCE_DIR}/headers/task1.hpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/headers/even.hpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/headers/quickSort.hpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/headers/cyclicBuffer.hpp
 )
 
 add_executable(

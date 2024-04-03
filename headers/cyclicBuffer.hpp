@@ -1,0 +1,12 @@
+#ifndef FC58FF19_4544_47C4_8BCD_1FE26EF3B493
+#define FC58FF19_4544_47C4_8BCD_1FE26EF3B493
+
+class cyclicList
+{
+public:
+
+private:
+
+};
+
+#endif /* FC58FF19_4544_47C4_8BCD_1FE26EF3B493 */
