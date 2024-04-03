@@ -5,7 +5,7 @@ set(PROJECT_NAME "LestaGames")
 project(${PROJECT_NAME})
 
 set(HEADERS
-  task1.hpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/headers/task1.hpp
 )
 
 add_executable(
